@@ -1,0 +1,12 @@
+Category,Unnamed: 3,Unnamed: 0,Unnamed: 2,Unnamed: 1,Unnamed: 4,Results
+,Ballots,,,,,
+Disability,,Disability,Ballots,,,
+Disability,Incomplete/,,,Participants,,
+Category,,Category,Completed,,Accuracy,Time to
+Category,Terminated,,,,,
+Category,,,,,,complete
+Blind,4,Blind,1,5,"34.5%, n=1","1199 sec, n=1"
+Low Vision,3,Low Vision,2,5,98.3% n=2,"1716 sec, n=3"
+Low Vision,,,,,"(97.7%, n=3)","(1934 sec, n=2)"
+Dexterity,1,Dexterity,4,5,"98.3%, n=4","1672.1 sec, n=4"
+Mobility,0,Mobility,3,3,"95.4%, n=3","1416 sec, n=3"
